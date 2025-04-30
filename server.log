@@ -1,0 +1,180 @@
+2025-04-23 03:28:58,643 - INFO -Fetch_expenses_for_date 2024-08-01
+2025-04-23 03:28:59,074 - INFO -fetch_expense_summary_by_months
+2025-04-23 03:29:05,954 - INFO -Fetch_expenses_for_date 2024-08-02
+2025-04-23 03:29:06,360 - INFO -fetch_expense_summary_by_months
+2025-04-23 03:29:47,837 - INFO -Fetch_expenses_for_date 2024-08-02
+2025-04-23 03:29:48,254 - INFO -Delete expenses for date :2024-08-02
+2025-04-23 03:29:48,665 - INFO -Insert_expenses_date are :2024-08-02 ,amount :52.0 ,category :Food ,notes :Pani puri
+2025-04-23 03:29:49,078 - INFO -Insert_expenses_date are :2024-08-02 ,amount :63.0 ,category :Shopping ,notes :
+2025-04-23 03:29:49,486 - INFO -Insert_expenses_date are :2024-08-02 ,amount :46.0 ,category :Other ,notes :
+2025-04-23 03:29:49,855 - INFO -Insert_expenses_date are :2024-08-02 ,amount :82.0 ,category :Entertainment ,notes :
+2025-04-23 03:29:50,234 - INFO -Insert_expenses_date are :2024-08-02 ,amount :100.0 ,category :Rent ,notes :
+2025-04-23 03:29:50,616 - INFO -fetch_expense_summary_by_months
+2025-04-23 03:30:22,637 - INFO -Fetch_expenses_for_date 2024-08-02
+2025-04-23 03:30:23,061 - INFO -Delete expenses for date :2024-08-02
+2025-04-23 03:30:23,502 - INFO -Insert_expenses_date are :2024-08-02 ,amount :52.0 ,category :Food ,notes :Pani puri
+2025-04-23 03:30:23,937 - INFO -Insert_expenses_date are :2024-08-02 ,amount :63.0 ,category :Shopping ,notes :Pants 
+2025-04-23 03:30:24,358 - INFO -Insert_expenses_date are :2024-08-02 ,amount :46.0 ,category :Other ,notes :Unknowing 
+2025-04-23 03:30:24,746 - INFO -Insert_expenses_date are :2024-08-02 ,amount :82.0 ,category :Entertainment ,notes :Movies
+2025-04-23 03:30:25,113 - INFO -Insert_expenses_date are :2024-08-02 ,amount :100.0 ,category :Rent ,notes :Traveling
+2025-04-23 03:30:25,494 - INFO -fetch_expense_summary_by_months
+2025-04-23 03:30:28,682 - INFO -Fetch_expenses_for_date 2025-01-01
+2025-04-23 03:30:29,142 - INFO -fetch_expense_summary_by_months
+2025-04-23 03:30:31,360 - INFO -Fetch_expenses_for_date 2025-01-01
+2025-04-23 03:30:31,733 - INFO -Fetch_expenses_for_date 2025-01-01
+2025-04-23 03:30:31,736 - INFO -Fetch_expenses_for_date 2025-01-01
+2025-04-23 03:30:32,574 - INFO -Fetch_expenses_for_date 2024-01-01
+2025-04-23 03:30:33,014 - INFO -Fetch_expenses_for_date 2024-01-01
+2025-04-23 03:30:33,441 - INFO -Fetch_expenses_for_date 2024-08-01
+2025-04-23 03:30:33,444 - INFO -Fetch_expenses_for_date 2024-08-01
+2025-04-23 03:30:34,084 - INFO -Fetch_expenses_for_date 2024-08-02
+2025-04-23 03:30:34,805 - INFO -fetch_expense_summary_by_months
+2025-04-23 03:34:18,193 - INFO -Fetch_expenses_for_date 2025-01-01
+2025-04-23 03:34:18,501 - INFO -fetch_expense_summary_by_months
+2025-04-23 03:34:20,941 - INFO -Fetch_expenses_for_date 2025-01-02
+2025-04-23 03:34:21,222 - INFO -fetch_expense_summary_by_months
+2025-04-23 03:34:22,518 - INFO -Fetch_expenses_for_date 2025-01-02
+2025-04-23 03:34:22,776 - INFO -fetch_expense_summary_by_months
+2025-04-23 03:34:29,413 - INFO -Fetch_expenses_for_date 2024-01-02
+2025-04-23 03:34:29,681 - INFO -fetch_expense_summary_by_months
+2025-04-23 03:34:33,613 - INFO -Fetch_expenses_for_date 2024-08-02
+2025-04-23 03:34:33,871 - INFO -fetch_expense_summary_by_months
+2025-04-23 03:34:36,325 - INFO -Fetch_expenses_for_date 2024-08-01
+2025-04-23 03:34:36,568 - INFO -fetch_expense_summary_by_months
+2025-04-23 03:34:37,642 - INFO -Fetch_expenses_for_date 2024-08-01
+2025-04-23 03:34:37,924 - INFO -fetch_expense_summary_by_months
+2025-04-23 03:34:43,217 - INFO -Fetch_expenses_for_date 2028-08-01
+2025-04-23 03:34:43,513 - INFO -fetch_expense_summary_by_months
+2025-04-23 03:34:44,866 - INFO -Fetch_expenses_for_date 2025-08-01
+2025-04-23 03:34:45,160 - INFO -fetch_expense_summary_by_months
+2025-04-23 03:34:48,137 - INFO -Fetch_expenses_for_date 2025-01-01
+2025-04-23 03:34:48,416 - INFO -fetch_expense_summary_by_months
+2025-04-23 03:34:51,312 - INFO -Fetch_expenses_for_date 2025-01-01
+2025-04-23 03:34:51,570 - INFO -Fetch_expenses_for_date 2025-01-01
+2025-04-23 03:34:51,878 - INFO -fetch_expense_summary_by_months
+2025-04-23 03:34:54,646 - INFO -Fetch_expenses_for_date 2025-01-15
+2025-04-23 03:34:54,938 - INFO -fetch_expense_summary_by_months
+2025-04-23 03:36:05,529 - INFO -Fetch_expenses_for_date 2025-01-15
+2025-04-23 03:36:05,820 - INFO -Delete expenses for date :2025-01-15
+2025-04-23 03:36:06,038 - INFO -Insert_expenses_date are :2025-01-15 ,amount :30.0 ,category :Food ,notes :Burger
+2025-04-23 03:36:06,323 - INFO -Insert_expenses_date are :2025-01-15 ,amount :50.0 ,category :Shopping ,notes :Buying Pencils and Pen
+2025-04-23 03:36:06,579 - INFO -Insert_expenses_date are :2025-01-15 ,amount :90.0 ,category :Other ,notes :Petrol
+2025-04-23 03:36:06,875 - INFO -Insert_expenses_date are :2025-01-15 ,amount :55.0 ,category :Food ,notes :Chicken nuggets
+2025-04-23 03:36:07,193 - INFO -fetch_expense_summary_by_months
+2025-04-23 04:40:22,231 - INFO -Fetch_expenses_for_date 2025-01-01
+2025-04-23 04:40:22,944 - INFO -fetch_expense_summary_by_months
+2025-04-23 04:40:27,294 - INFO -Fetch_expenses_for_date 2025-01-02
+2025-04-23 04:40:27,907 - INFO -fetch_expense_summary_by_months
+2025-04-23 04:40:28,925 - INFO -Fetch_expenses_for_date 2025-01-02
+2025-04-23 04:40:29,357 - INFO -fetch_expense_summary_by_months
+2025-04-23 04:40:36,143 - INFO -Fetch_expenses_for_date 2025-01-01
+2025-04-23 04:40:36,566 - INFO -fetch_expense_summary_by_months
+2025-04-23 04:40:44,709 - INFO -Fetch_expenses_for_date 2025-01-14
+2025-04-23 04:40:45,180 - INFO -fetch_expense_summary_by_months
+2025-04-23 04:40:46,780 - INFO -Fetch_expenses_for_date 2025-01-15
+2025-04-23 04:40:47,229 - INFO -fetch_expense_summary_by_months
+2025-04-23 06:12:54,513 - INFO -Fetch_expenses_for_date 2025-01-01
+2025-04-23 06:12:55,232 - INFO -fetch_expense_summary_by_months
+2025-04-23 06:13:20,476 - INFO -fetch_expense_summary_by_months
+2025-04-23 06:13:30,881 - INFO -Fetch_expenses_for_date 2025-04-24
+2025-04-23 06:13:31,350 - INFO -fetch_expense_summary_by_months
+2025-04-23 06:13:34,911 - INFO -Fetch_expenses_for_date 2025-04-24
+2025-04-23 06:13:35,376 - INFO -fetch_expense_summary_by_months
+2025-04-23 06:21:57,279 - INFO -Fetch_expenses_for_date 2025-04-24
+2025-04-23 06:21:57,559 - INFO -fetch_expense_summary_by_months
+2025-04-23 06:21:59,556 - INFO -Fetch_expenses_for_date 2025-04-24
+2025-04-23 06:21:59,815 - INFO -fetch_expense_summary_by_months
+2025-04-23 06:22:00,315 - INFO -Fetch_expenses_for_date 2025-04-24
+2025-04-23 06:22:00,619 - INFO -fetch_expenses Sumary for star_date :2025-01-01 & End date 2025-04-24 
+2025-04-23 06:22:00,891 - INFO -fetch_expense_summary_by_months
+2025-04-23 06:22:21,344 - INFO -Fetch_expenses_for_date 2025-04-24
+2025-04-23 06:22:21,630 - INFO -Delete expenses for date :2025-04-24
+2025-04-23 06:22:21,866 - INFO -Insert_expenses_date are :2025-04-24 ,amount :50.0 ,category :Food ,notes :Ate Burger
+2025-04-23 06:22:22,099 - INFO -Insert_expenses_date are :2025-04-24 ,amount :899.0 ,category :Shopping ,notes :Bought a hoodie with 3 sleeves
+2025-04-23 06:22:22,347 - INFO -Insert_expenses_date are :2025-04-24 ,amount :900.0 ,category :Rent ,notes :Shared igloo in the Arctic
+2025-04-23 06:22:22,567 - INFO -Insert_expenses_date are :2025-04-24 ,amount :60.0 ,category :Shopping ,notes :LED keyboard
+2025-04-23 06:22:22,796 - INFO -Insert_expenses_date are :2025-04-24 ,amount :560.0 ,category :Other ,notes :	Crystal rock
+2025-04-23 06:22:23,083 - INFO -fetch_expense_summary_by_months
+2025-04-23 06:22:27,820 - INFO -Fetch_expenses_for_date 2025-04-24
+2025-04-23 06:22:28,152 - INFO -fetch_expenses Sumary for star_date :2025-01-01 & End date 2025-04-24 
+2025-04-23 06:22:28,409 - INFO -fetch_expense_summary_by_months
+2025-04-23 06:28:04,261 - INFO -Fetch_expenses_for_date 2025-04-24
+2025-04-23 06:28:04,578 - INFO -Delete expenses for date :2025-04-24
+2025-04-23 06:28:04,864 - INFO -Insert_expenses_date are :2025-04-24 ,amount :50.0 ,category :Food ,notes :Ate Burger
+2025-04-23 06:28:05,225 - INFO -Insert_expenses_date are :2025-04-24 ,amount :899.0 ,category :Shopping ,notes :Bought a hoodie with 3 sleeves
+2025-04-23 06:28:05,560 - INFO -Insert_expenses_date are :2025-04-24 ,amount :900.0 ,category :Rent ,notes :Shared igloo in the Arctic
+2025-04-23 06:28:05,848 - INFO -Insert_expenses_date are :2025-04-24 ,amount :60.0 ,category :Shopping ,notes :LED keyboard
+2025-04-23 06:28:06,167 - INFO -Insert_expenses_date are :2025-04-24 ,amount :560.0 ,category :Other ,notes :	Crystal rock
+2025-04-23 06:28:06,455 - INFO -fetch_expense_summary_by_months
+2025-04-23 06:28:12,755 - INFO -Fetch_expenses_for_date 2025-04-24
+2025-04-23 06:28:13,102 - INFO -fetch_expenses Sumary for star_date :2025-01-01 & End date 2025-04-24 
+2025-04-23 06:28:13,453 - INFO -fetch_expense_summary_by_months
+2025-04-23 06:28:28,331 - INFO -Fetch_expenses_for_date 2025-04-24
+2025-04-23 06:28:28,622 - INFO -fetch_expense_summary_by_months
+2025-04-23 06:28:29,871 - INFO -Fetch_expenses_for_date 2025-04-24
+2025-04-23 06:28:30,169 - INFO -fetch_expenses Sumary for star_date :2025-01-02 & End date 2025-04-24 
+2025-04-23 06:28:30,465 - INFO -fetch_expense_summary_by_months
+2025-04-23 06:37:55,685 - INFO -Fetch_expenses_for_date 2025-01-01
+2025-04-23 06:37:55,968 - INFO -fetch_expense_summary_by_months
+2025-04-23 06:38:05,270 - INFO -Fetch_expenses_for_date 2025-01-02
+2025-04-23 06:38:05,551 - INFO -fetch_expense_summary_by_months
+2025-04-23 06:38:08,350 - INFO -Fetch_expenses_for_date 2025-01-02
+2025-04-23 06:38:08,622 - INFO -fetch_expense_summary_by_months
+2025-04-23 06:38:27,747 - INFO -Fetch_expenses_for_date 2025-04-02
+2025-04-23 06:38:28,002 - INFO -fetch_expense_summary_by_months
+2025-04-23 06:38:30,744 - INFO -Fetch_expenses_for_date 2025-04-01
+2025-04-23 06:38:31,098 - INFO -fetch_expense_summary_by_months
+2025-04-23 06:38:32,127 - INFO -Fetch_expenses_for_date 2025-04-01
+2025-04-23 06:38:32,406 - INFO -fetch_expense_summary_by_months
+2025-04-23 06:38:39,245 - INFO -Fetch_expenses_for_date 2025-04-22
+2025-04-23 06:38:39,501 - INFO -fetch_expense_summary_by_months
+2025-04-23 06:38:50,787 - INFO -Fetch_expenses_for_date 2025-04-21
+2025-04-23 06:38:50,966 - INFO -fetch_expense_summary_by_months
+2025-04-23 06:38:52,956 - INFO -Fetch_expenses_for_date 2025-04-23
+2025-04-23 06:38:53,207 - INFO -fetch_expense_summary_by_months
+2025-04-23 06:38:55,432 - INFO -Fetch_expenses_for_date 2025-04-24
+2025-04-23 06:38:55,641 - INFO -fetch_expense_summary_by_months
+2025-04-23 06:39:04,949 - INFO -Fetch_expenses_for_date 2025-04-22
+2025-04-23 06:39:05,147 - INFO -fetch_expense_summary_by_months
+2025-04-23 06:39:07,987 - INFO -Fetch_expenses_for_date 2025-04-22
+2025-04-23 06:39:08,187 - INFO -fetch_expense_summary_by_months
+2025-04-23 06:39:10,627 - INFO -Fetch_expenses_for_date 2025-04-22
+2025-04-23 06:39:10,857 - INFO -Delete expenses for date :2025-04-22
+2025-04-23 06:39:11,037 - INFO -fetch_expense_summary_by_months
+2025-04-23 06:41:53,268 - INFO -Fetch_expenses_for_date 2025-04-22
+2025-04-23 06:41:53,453 - INFO -Delete expenses for date :2025-04-22
+2025-04-23 06:41:53,661 - INFO -Insert_expenses_date are :2025-04-22 ,amount :50.0 ,category :Food ,notes :Ate Burger
+2025-04-23 06:41:53,934 - INFO -Insert_expenses_date are :2025-04-22 ,amount :900.0 ,category :Food ,notes :Donut combo
+2025-04-23 06:41:54,150 - INFO -Insert_expenses_date are :2025-04-22 ,amount :150.0 ,category :Shopping ,notes :Graphic tee
+2025-04-23 06:41:54,351 - INFO -Insert_expenses_date are :2025-04-22 ,amount :250.0 ,category :Entertainment ,notes :Mini golf
+2025-04-23 06:41:54,620 - INFO -Insert_expenses_date are :2025-04-22 ,amount :99.0 ,category :Other ,notes :Lucky coin
+2025-04-23 06:41:54,864 - INFO -fetch_expense_summary_by_months
+2025-04-23 06:42:04,697 - INFO -Fetch_expenses_for_date 2025-04-24
+2025-04-23 06:42:04,893 - INFO -fetch_expense_summary_by_months
+2025-04-23 06:42:06,806 - INFO -Fetch_expenses_for_date 2025-04-24
+2025-04-23 06:42:07,014 - INFO -fetch_expense_summary_by_months
+2025-04-23 06:42:10,711 - INFO -Fetch_expenses_for_date 2025-04-23
+2025-04-23 06:42:10,910 - INFO -fetch_expense_summary_by_months
+2025-04-23 06:42:39,448 - INFO -Fetch_expenses_for_date 2025-01-01
+2025-04-23 06:42:39,638 - INFO -fetch_expense_summary_by_months
+2025-04-23 06:42:48,309 - INFO -Fetch_expenses_for_date 2025-04-22
+2025-04-23 06:42:48,497 - INFO -fetch_expense_summary_by_months
+2025-04-23 06:42:50,818 - INFO -Fetch_expenses_for_date 2025-04-22
+2025-04-23 06:42:51,020 - INFO -fetch_expense_summary_by_months
+2025-04-23 06:43:21,332 - INFO -Fetch_expenses_for_date 2025-01-01
+2025-04-23 06:43:21,533 - INFO -fetch_expense_summary_by_months
+2025-04-23 06:43:32,058 - INFO -Fetch_expenses_for_date 2025-01-01
+2025-04-23 06:43:32,295 - INFO -fetch_expense_summary_by_months
+2025-04-23 06:43:41,154 - INFO -Fetch_expenses_for_date 2025-01-22
+2025-04-23 06:43:41,365 - INFO -fetch_expense_summary_by_months
+2025-04-23 06:43:44,705 - INFO -Fetch_expenses_for_date 2025-04-22
+2025-04-23 06:43:44,915 - INFO -fetch_expense_summary_by_months
+2025-04-23 06:43:46,373 - INFO -Fetch_expenses_for_date 2025-04-22
+2025-04-23 06:43:46,605 - INFO -fetch_expense_summary_by_months
+2025-04-23 06:44:08,666 - INFO -Fetch_expenses_for_date 2025-04-22
+2025-04-23 06:44:08,866 - INFO -fetch_expense_summary_by_months
+2025-04-23 06:44:10,362 - INFO -Fetch_expenses_for_date 2025-04-22
+2025-04-23 06:44:10,586 - INFO -fetch_expense_summary_by_months
+2025-04-23 06:44:11,923 - INFO -Fetch_expenses_for_date 2025-04-22
+2025-04-23 06:44:12,141 - INFO -fetch_expenses Sumary for star_date :2025-01-01 & End date 2025-04-23 
+2025-04-23 06:44:12,339 - INFO -fetch_expense_summary_by_months
